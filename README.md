@@ -4,7 +4,7 @@ A minimal neural network framework written in pure Go — from scratch.
 
 NeuroGo lets you build, train, and interactively explore feedforward neural networks with features like ReLU, Softmax, Dropout, Backpropagation, Class Weights, Early Stopping, and more.
 
-## 🚀 Features
+## Features
 
 - Feedforward architecture with arbitrary layers
 - ReLU activation and Softmax output
