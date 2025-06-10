@@ -4,12 +4,6 @@ A minimal neural network framework.
 
 NeuroGo lets you build, train, and interactively explore feedforward neural networks with features like ReLU, Softmax, Dropout, Backpropagation, Class Weights, Early Stopping, and more.
 
-## Evaluating model
-![alt text](image.png)
-
-## Confusion Matrix
-![alt text](image-1.png)
-
 ## Features
 
 - **Simple Architecture**: Single hidden layer neural network with configurable layer sizes
