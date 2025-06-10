@@ -1,6 +1,6 @@
 # NeuroGo: Neural Network Implementation in Go
 
-A minimal neural network framework written in pure Go — from scratch.
+A minimal neural network framework.
 
 NeuroGo lets you build, train, and interactively explore feedforward neural networks with features like ReLU, Softmax, Dropout, Backpropagation, Class Weights, Early Stopping, and more.
 
